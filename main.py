@@ -1,4 +1,5 @@
 # sorry i am very sorry for using python 
+# mad
 import os, sys
 
 def binary(c=None):
